@@ -1,6 +1,10 @@
 # vuedemo
 
-> A Vue.js project
+使用vue-cli脚手架搭建项目，实现添加编辑小功能
+
+知识点： 
+单文件组件 .vue
+路由 vue-router
 
 ## Build Setup
 
